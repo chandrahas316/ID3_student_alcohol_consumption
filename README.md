@@ -70,10 +70,10 @@
 
 - Installing and loading all the required libraries.
 
-- Data Preprocessing
+- Data Preprocessing : Removed unnecessary columns to avoid complexity in code. Drawn box plots to detect outliers in the dataset for numerical attributes.
 
-- Data Analysis 
+- Data Analysis : Found correlation among numerical and categorical attributes seperately and took appropriate measures.
 
-- Implementing Decision tree using ID3 algorithm
+- Implementing Decision tree using ID3 algorithm.
 
-- Performance metrics
+- Performance metrics : Accuracy, Precision, Recall obtained from confusion matrix are used as performance metrics.
