@@ -4,15 +4,11 @@
 
 - For data preprocessing we need to do three things,
 
-  1\. Finding correlation between variables so that highly correlated variables can be removed to reduce the redundancy in the dataset.
-
-  ➔ We used pearson correlation method for numeric data and for the rest we used chi-square correlation method.
-
-  2\. Checking whether there are any missing values in the dataset.
+  1\. Checking whether there are any missing values in the dataset.
 
   ➔ There are no missing values in the given dataset.
 
-  3\. Removing outliers in dataset.
+  2\. Removing outliers in dataset.
 
 - Decision tree(ID3) -
 
